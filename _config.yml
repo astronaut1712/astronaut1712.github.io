@@ -28,7 +28,7 @@ email: quang.astronaut@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello, I'm Naveen, a freelance front-end developer
   and UI designer. Check out my projects on GitHub
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "http://material.freecoding.info" # the subpath of your site, e.g. /blog/
 url: "http://material.freecoding.info" # the base hostname & protocol for your site
 twitter_username: xuan_quang
 github_username:  astronaut1712
