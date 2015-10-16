@@ -33,8 +33,8 @@ url: "http://material.freecoding.info" # the base hostname & protocol for your s
 twitter_username: xuan_quang
 github_username:  astronaut1712
 css: "green"
-scroll-cursor: "#00BCD4"
-scroll-rail: "#0097A7"
+scroll-cursor: "#81c784"
+scroll-rail: "#1b5e20"
 
 # Build settings
 markdown: kramdown
