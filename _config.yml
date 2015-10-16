@@ -34,7 +34,7 @@ twitter_username: xuan_quang
 github_username:  astronaut1712
 css: "green"
 scroll-cursor: "#66bb6a"
-scroll-rail: "#1b5e20"
+scroll-rail: "#2e7d32"
 
 # Build settings
 markdown: kramdown
