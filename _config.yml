@@ -32,7 +32,7 @@ baseurl: "http://material.freecoding.info" # the subpath of your site, e.g. /blo
 url: "http://material.freecoding.info" # the base hostname & protocol for your site
 twitter_username: xuan_quang
 github_username:  astronaut1712
-css: "cyan"
+css: "green"
 scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
 
