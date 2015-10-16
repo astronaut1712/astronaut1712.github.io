@@ -33,7 +33,7 @@ url: "http://material.freecoding.info" # the base hostname & protocol for your s
 twitter_username: xuan_quang
 github_username:  astronaut1712
 css: "green"
-scroll-cursor: "#81c784"
+scroll-cursor: "#66bb6a"
 scroll-rail: "#1b5e20"
 
 # Build settings
