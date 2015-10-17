@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**Nhân Mã** hay còn gọi là Cung Nhân Mã còn có tên gọi khác là Xạ Thủ và Cung Thủ trong 12 cung hoàng đạo. Năng lượng dồi dào cộng với niềm đam mê khám phá, Nhân Mã là cung thích đi du lịch và được du lịch nhiều nhất cung hoàng đạo.
+**Nhân Mã** hay còn gọi là **Cung Nhân Mã** còn có tên gọi khác là **Xạ Thủ** và **Cung Thủ** trong 12 cung hoàng đạo. Năng lượng dồi dào cộng với niềm đam mê khám phá, **Nhân Mã** là cung thích đi du lịch và được du lịch nhiều nhất cung hoàng đạo.
 
 ![Nhân mã](http://3.bp.blogspot.com/-ku5ZdqKqYgI/UMCDU9HQRGI/AAAAAAAAAsA/m_LBEMehHBA/s1600/nhanmax.jpg)
 
@@ -40,10 +40,9 @@ Nhà cửa: thích ngôi nhà được trang trí bằng các kỷ vật của c
 
 Chòm sao Sagittarus (Arches) là để tưởng nhớ nhân vật thần thoại Chiron, kẻ tử tế và dễ thương nhất của dòng tộc Centaurs có hình dạng nửa người nửa ngựa. Dù đa số thành viên dòng tộc này rất bạo lực và đần độn, Chiron lại khá khôn ngoan, biết thương người và có thể dạy dỗ người khác. Anh là thần vì có mẹ là con gái của thần biển Oceanus và cha là Kronos. 
 
-![](http://1.bp.blogspot.com/-lGfPKYLxMAc/UMDFa--_MAI/AAAAAAAAAzg/3SLK4w6EvTA/s1600/thanSanban-saoNhanMa.png)
+![Artemis - Thần Săn Băn và Bảo Hộ thai sản - vị thần bảo hộ cho cung Nhân Mã](http://1.bp.blogspot.com/-lGfPKYLxMAc/UMDFa--_MAI/AAAAAAAAAzg/3SLK4w6EvTA/s1600/thanSanban-saoNhanMa.png)
 
-Cung Nhân Mã (22/11 đến 21/12) - Tính cách - Tình yêu - Sự nghiệp
-Artemis - Thần Săn Băn và Bảo Hộ thai sản - vị thần bảo hộ cho cung Nhân Mã
+->**Artemis** - Thần Săn Băn và Bảo Hộ thai sản - vị thần bảo hộ cho cung Nhân Mã<-
 
 Chiron từng dạy học cho các anh hùng Hy Lạp Achilles và Jason. Nổi tiếng nhưng Chiron sống trong một hang động ở vùng nông thôn. Không may, Heracles bắn tên trúng nhầm Chiron khi anh đang ra tay tiêu diệt những con ác thú nửa người độc ác tàn phá núi rừng và anh rất hối tiếc việc đã làm. 
 
