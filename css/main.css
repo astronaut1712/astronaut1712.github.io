@@ -54,7 +54,7 @@ nav {
 
 .scrollToTop {
     position: fixed;
-    top: 100px;
+    bottom: 10px;
     right: 40px;
     display: none;
 }
@@ -164,7 +164,7 @@ nav {
     overflow: hidden;
     text-overflow: clip; /*add max-width */
     max-width: 100%;
-    
+
 }
 
 .card .cover:hover {
