@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "-::- About -::- " {{ site.title }}
+title: About
 permalink: /about/
 ---
 
