@@ -42,7 +42,7 @@ Chòm sao Sagittarus (Arches) là để tưởng nhớ nhân vật thần thoạ
 
 ![Artemis - Thần Săn Băn và Bảo Hộ thai sản - vị thần bảo hộ cho cung Nhân Mã](http://1.bp.blogspot.com/-lGfPKYLxMAc/UMDFa--_MAI/AAAAAAAAAzg/3SLK4w6EvTA/s1600/thanSanban-saoNhanMa.png)
 
-->**Artemis** - Thần Săn Băn và Bảo Hộ thai sản - vị thần bảo hộ cho cung Nhân Mã<-
+**Artemis** - Thần Săn Băn và Bảo Hộ thai sản - vị thần bảo hộ cho cung Nhân Mã
 
 Chiron từng dạy học cho các anh hùng Hy Lạp Achilles và Jason. Nổi tiếng nhưng Chiron sống trong một hang động ở vùng nông thôn. Không may, Heracles bắn tên trúng nhầm Chiron khi anh đang ra tay tiêu diệt những con ác thú nửa người độc ác tàn phá núi rừng và anh rất hối tiếc việc đã làm. 
 
