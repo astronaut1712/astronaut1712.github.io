@@ -27,8 +27,8 @@ title: -::- Xuan Quang :: Happy coding -::-
 email: quang.astronaut@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello, I'm Quang. Check out my projects on GitHub
-baseurl: "http://material.freecoding.info" # the subpath of your site, e.g. /blog/
-url: "http://material.freecoding.info" # the base hostname & protocol for your site
+baseurl: "http://blog.freecoding.info" # the subpath of your site, e.g. /blog/
+url: "http://blog.freecoding.info" # the base hostname & protocol for your site
 twitter_username: xuan_quang
 github_username:  astronaut1712
 css: "green"
