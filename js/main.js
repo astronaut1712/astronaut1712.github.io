@@ -75,10 +75,10 @@ function calcScrollr() {
             dataval = dataval + cardht;
             temp = temp - cardht;
         }
-        
+
         totalht += cardht;
         i += cardht;
-        
+
         if (_hideatend) {
             var endpos = _startscrollat + (totalcount * $_e.eq(0).height());
             $_e.eq(count).attr("data-" + (endpos - 129), "display: block");
@@ -86,9 +86,9 @@ function calcScrollr() {
             $_e.eq(count).attr("data-" + (endpos - 11), "display: none");
             $_e.eq(count).attr("data-" + (endpos - 22), "opacity: 0");
         }
-        
+
         count++;
-        
+
     });
 
 }
@@ -125,6 +125,8 @@ $(function () {
             _href = $(this).attr("href");
             history.pushState(null, null, _href);
             loadContent(_href);
+            $(this).parent().parent().find('li').removeClass('active');
+            $(this).parent().addClass('active');
         });
         $("body").delegate("button[href]", "click", function () {
             event.preventDefault();
