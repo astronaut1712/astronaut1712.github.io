@@ -139,6 +139,7 @@ $(function () {
         var $mainContent = $("#main-content"),
             $pageWrap = $("#page-wrap"),
             baseHeight = 0,
+            $navMenu = $("#nav-mobile"),
             $el;
 
         // calculate wrapper heights to prevent jumping when loading new content
@@ -146,6 +147,20 @@ $(function () {
         baseHeight = $pageWrap.height() - $mainContent.height();
 
         function loadContent(href) {
+            var regex = new RegExp(location.protocol + "\/\/" + location.hostname + "\/(\\w*)\/?.*");
+            var match = regex.exec(href);
+            var page = 'home';
+            if(match){
+                if(match[1] !== ''){
+                    page = match[1];
+                    if(/\d+/.test(page)){
+                        page = 'blog';
+                    }
+                }
+            }
+
+            $navMenu.find('li').removeClass("active");//remove active class for all menu items
+            $navMenu.find('li.' + page).addClass("active");
             $mainContent.find("#guts").stop(true, true).fadeOut(600, function () { // fade out the content of the current page
                 $(".preloader").fadeIn();
                 $mainContent.hide().load(href + " #guts", function () { // load the contents of whatever href is
