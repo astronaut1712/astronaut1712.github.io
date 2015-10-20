@@ -158,9 +158,9 @@ $(function () {
                     }
                 }
             }
-
+            console.log('loading page ' + page);
             $navMenu.find('li').removeClass("active");//remove active class for all menu items
-            $navMenu.find('li.' + page).addClass("active");
+            $('li#' + page).addClass("active");
             $mainContent.find("#guts").stop(true, true).fadeOut(600, function () { // fade out the content of the current page
                 $(".preloader").fadeIn();
                 $mainContent.hide().load(href + " #guts", function () { // load the contents of whatever href is
