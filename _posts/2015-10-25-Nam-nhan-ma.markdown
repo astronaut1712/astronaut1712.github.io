@@ -23,7 +23,7 @@ title: "Đặc điểm Nam Nhân mã"
 
 * **Nam Nhân mã** rất thẳng thắn, cũng dễ mất lòng
 
-* Sức thu hút: phong cách lãng tử ngao du =”= hình tượng như Khang Hy Vi Hành
+* **Sức thu hút**: phong cách lãng tử ngao du =”= hình tượng như Khang Hy Vi Hành
 
 * Hơi khó đoán biết khi nào họ thực sự yêu ai đó. Cảm xúc của **Nam Nhân mã** được che đậy bởi sự vui vẻ
 
