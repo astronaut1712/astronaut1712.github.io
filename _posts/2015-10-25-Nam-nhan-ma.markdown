@@ -33,4 +33,5 @@ Hoặc bắt anh ấy phải báo cáo quá nhiều
 - Đàn ông Nhân Mã thích du lịch, họ hoạt bát và không thích bị ra lệnh (các cô hung dữ nhớ dùm cái).
 
 - Trông **Nam Nhân mã** tưởng chừng như đơn giản nhất trong 12 cung hoàng đạo, nhưng thực ra họ là khó nắm bắt nhất
+
     - Lấy Brat Pitt làm ví dụ điển hình. Những Nhân Mã tưởng chừng như ham chơi hoàn toàn có thể trở thành người đàn ông mẫu mực, có trách nhiệm với gia đình
