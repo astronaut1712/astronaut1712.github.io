@@ -9,13 +9,13 @@ title: "Đặc điểm Nam Nhân mã"
 
 - HỌ RẤT ĐA TÌNH
 
-Khi mối quan hệ trở nên quá nghiêm trọng học nghẹt thở, họ có xu hướng bỏ chạy… (VD: ra mắt nhà người yêu, hay kết hôn sớm…)
+    Khi mối quan hệ trở nên quá nghiêm trọng học nghẹt thở, họ có xu hướng bỏ chạy… (VD: ra mắt nhà người yêu, hay kết hôn sớm…)
 
-Vì vậy, để mối quan hệ bền vững không nên:
+    Vì vậy, để mối quan hệ bền vững không nên:
 
-    - Đi đâu 1 chút là chất vấn
-    - Hở tí là nghi ngờ
-    - Hoặc bắt anh ấy phải báo cáo quá nhiều
+        - Đi đâu 1 chút là chất vấn
+        - Hở tí là nghi ngờ
+        - Hoặc bắt anh ấy phải báo cáo quá nhiều
 
 - **Nam Nhân mã** thích những gì có chút mạo hiểm và thích đi du lịch
 
