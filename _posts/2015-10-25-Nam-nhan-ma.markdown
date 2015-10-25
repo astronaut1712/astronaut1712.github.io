@@ -7,7 +7,7 @@ title: "Đặc điểm Nam Nhân mã"
 
 * Ưu điểm và cũng có thể thành bất lợi: Quá vô tư…
 
-* HỌ RẤT ĐA TÌNH
+* **Họ rất đa tình**
 
     Khi mối quan hệ trở nên quá nghiêm trọng học nghẹt thở, họ có xu hướng bỏ chạy… (VD: ra mắt nhà người yêu, hay kết hôn sớm…)
 
