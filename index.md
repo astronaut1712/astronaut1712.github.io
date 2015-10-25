@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Thông tin
 ---
 
 **Nhân Mã** hay còn gọi là **Cung Nhân Mã** còn có tên gọi khác là **Xạ Thủ** và **Cung Thủ** trong 12 cung hoàng đạo. Năng lượng dồi dào cộng với niềm đam mê khám phá, **Nhân Mã** là cung thích đi du lịch và được du lịch nhiều nhất cung hoàng đạo.
