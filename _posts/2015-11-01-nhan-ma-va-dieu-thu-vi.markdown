@@ -3,9 +3,7 @@ layout: post
 title: Nhân mã với đặc điểm thú vị
 ---
 
-## Cực vui về Nhân Mã
-
-### Nhân Mã dễ bị ghét hoặc làm người khác bực mình vì :
+#### Nhân Mã dễ bị ghét hoặc làm người khác bực mình vì :
 
 * Mặt lạnh lạnh, nhìn sợ sợ lúc mới quen.
 * Quá thẳng thắn – có gì là nói ra hết mà không suy nghĩ.
@@ -14,7 +12,7 @@ title: Nhân mã với đặc điểm thú vị
 * Cái tôi cao.
 * Lì lợm và ngang ngạnh.
 
-### Những điểm làm người khác quý Nhân Mã :
+#### Những điểm làm người khác quý Nhân Mã :
 
 * Có nụ cười tươi.
 * Năng động, nhiệt tình, chân thành.
